@@ -17,6 +17,7 @@ window-height = 50
 
 theme = dark:Catppuccin Frappe,light:Catppuccin Latte
 
+# When using Windows keyboard instead of those supporting both Mac/Windows
 macos-option-as-alt = true
 
 working-directory = "/Users/arcaneliu/workspace"
